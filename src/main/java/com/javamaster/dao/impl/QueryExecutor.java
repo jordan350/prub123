@@ -11,7 +11,7 @@ import javax.naming.NamingException;
 import javax.sql.DataSource;
 
 
-import com.mysql.jdbc.Statement;
+import java.sql.Statement;
 
 
 public class QueryExecutor {
